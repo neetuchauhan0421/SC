@@ -1,0 +1,121 @@
+{
+    "variants": [
+        {
+        "id": 1,
+        "variantName": "Facebook Post",
+        "price": "$40 per 1000 words",
+        "subCategoryID": 1,
+        "subCategoryName": "SEO",
+        "categoryID": 1,
+        "categoryName":"Content Writing",
+        "thumbs":"https://images.ctfassets.net/zkqwmjl9nf4n/1vNvV6kd652CKKHSoDpSBU/09d1573adc7cddb03f739d437c9c8092/Untitled_design__11_.png"
+        },
+        {
+        "id": 2,
+        "variantName": "Personal Blog Post",
+        "price": "$30 per 1000 words",
+        "subCategoryID": 1,
+        "subCategoryName": "SEO",
+        "categoryID": 1,
+        "categoryName":"Content Writing",
+        "thumbs":"https://images.ctfassets.net/zkqwmjl9nf4n/5eawAzDUo8yC0m46OSMMc0/f4bb92aecdc15b105054cac337130ee1/thumbs08_customer_feedback.jpg"
+
+        },
+        {
+        "id": 3,
+        "variantName": "Business Card",
+        "price": "$59",
+        "subCategoryID": 1,
+        "subCategoryName": "Logo & Identity",
+        "categoryID": 2,
+        "categoryName":"Design",
+        "thumbs":"https://images.ctfassets.net/zkqwmjl9nf4n/5MvsKwnLoWo4SKgy8qQ8gW/4853dcbff23d329af86666a4a1f0b82f/thumbs36_product_feedback_survey.jpg"
+        },
+        {
+        "id": 4,
+        "variantName": "Stationery",
+        "price": "$79",
+        "subCategoryID": 1,
+        "subCategoryName": "Logo & Identity",
+        "categoryID": 2,
+        "categoryName":"Design",
+        "thumbs":"https://images.ctfassets.net/zkqwmjl9nf4n/2DQpfLK6DS2OY8oYAu6uqY/b5cfc3fbb140d6765ab84aa2f980e81a/thumbs44_employee_engagement.jpg"
+        },
+        {
+        "id": 5,
+        "variantName": "Social Media Posts",
+        "price": "$49",
+        "subCategoryID": 2,
+        "subCategoryName": "Business & Advertising",
+        "categoryID": 2,
+        "categoryName":"Design",
+        "thumbs":"https://images.ctfassets.net/zkqwmjl9nf4n/3ForaRn7baesaIws24cG2c/5017812e87cb9767d498c0a91f5c7b23/thumbs33_exit_survey_template.jpg"
+        },
+        {
+        "id": 6,
+        "variantName": "Social Media Pages",
+        "price": "$79",
+        "subCategoryID": 2,
+        "subCategoryName": "Business & Advertising",
+        "categoryID": 2,
+        "categoryName":"Design",
+        "thumbs":"https://images.ctfassets.net/zkqwmjl9nf4n/3BFo5PxIVqU0WsMsQW2s0M/d599478c68dd0cfd7ad15ddac4dceec8/thumbs41_candidate_experience.jpg"
+        }
+    ],
+    "projects": [
+        {
+        "id": 1,
+        "variantName": "Facebook Post",
+        "price": "$40 per 1000 words",
+        "subCategoryID": 1,
+        "subCategoryName": "SEO",
+        "categoryID": 1,
+        "categoryName":"Content Writing"
+        },
+        {
+        "id": 2,
+        "variantName": "Personal Blog Post",
+        "price": "$30 per 1000 words",
+        "subCategoryID": 1,
+        "subCategoryName": "SEO",
+        "categoryID": 1,
+        "categoryName":"Content Writing"
+        },
+        {
+        "id": 3,
+        "variantName": "Business Card",
+        "price": "$59",
+        "subCategoryID": 1,
+        "subCategoryName": "Logo & Identity",
+        "categoryID": 2,
+        "categoryName":"Design"
+        },
+        {
+        "id": 4,
+        "variantName": "Stationery",
+        "price": "$79",
+        "subCategoryID": 1,
+        "subCategoryName": "Logo & Identity",
+        "categoryID": 2,
+        "categoryName":"Design"
+        },
+        {
+        "id": 5,
+        "variantName": "Social Media Posts",
+        "price": "$49",
+        "subCategoryID": 2,
+        "subCategoryName": "Business & Advertising",
+        "categoryID": 2,
+        "categoryName":"Design"
+        },
+        {
+        "id": 6,
+        "variantName": "Social Media Pages",
+        "price": "$79",
+        "subCategoryID": 2,
+        "subCategoryName": "Business & Advertising",
+        "categoryID": 2,
+        "categoryName":"Design"
+        }
+    ]
+}

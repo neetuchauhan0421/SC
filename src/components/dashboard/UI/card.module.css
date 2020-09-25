@@ -1,0 +1,30 @@
+.root{
+    display:flex;
+    flex-direction: column;
+    height: 192px;
+    width: 192px;
+    margin:0 32px 32px 0;
+    border: 0px solid;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 4px, rgba(0, 0, 0, 0.06) 0px 2px 12px;
+    transition: box-shadow 0.5s ease-in 0s;
+}
+.root:hover{
+    box-shadow: rgba(0, 0, 0, 0.40) 0px 2px 4px, rgba(0, 0, 0, 0.40) 0px 2px 12px;
+}
+
+.thumbs{
+    flex-basis: 60%;
+}
+.thumbs > img {
+    height:100%;
+    width:100%;
+    border-radius: 4px 4px 0px 0px;
+}
+.variantName{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-top:1px solid black;
+    flex-basis:40%;
+}
